@@ -1,3 +1,5 @@
+<div align="center">
+
 # School Management System
 
 ## Description
@@ -6,23 +8,42 @@ Le projet School Management System est une application Java conçue pour gérer 
 
 ## Fonctionnalités
 
-- **Gestion de l'école** :
-  - Enregistrer les données de l'école (nom, adresse, numéro de téléphone).
-- **Gestion des étudiants** :
-  - Enregistrer les données des étudiants (nom, âge, numéro de téléphone).
-  - Inscrire des étudiants dans un niveau scolaire.
-  - Chercher un étudiant en utilisant son nom.
-  - Écrire une liste contenant tous les noms des étudiants.
-  - Supprimer un étudiant.
-- **Gestion des professeurs** :
-  - Enregistrer les données des professeurs (nom, âge, salaire).
-  - Réserver un professeur à un seul niveau scolaire.
-  - Chercher un professeur en utilisant son nom.
-  - Écrire une liste contenant tous les noms des professeurs.
-  - Supprimer un professeur.
-- **Gestion des niveaux scolaires** :
-  - Enregistrer les données des niveaux scolaires (nom, code).
-  - Chercher un niveau scolaire en utilisant son nom.
+<div align="center">
+
+  <p>
+    <img src="https://img.icons8.com/windows/32/000000/school.png"/>
+    <b>Gestion de l'école</b> :
+    Enregistrer les données de l'école (nom, adresse, numéro de téléphone).
+  </p>
+  
+  <p>
+    <img src="https://img.icons8.com/windows/32/000000/student-registration.png"/>
+    <b>Gestion des étudiants</b> :
+    Enregistrer les données des étudiants (nom, âge, numéro de téléphone).
+    Inscrire des étudiants dans un niveau scolaire.
+    Chercher un étudiant en utilisant son nom.
+    Écrire une liste contenant tous les noms des étudiants.
+    Supprimer un étudiant.
+  </p>
+  
+  <p>
+    <img src="https://img.icons8.com/windows/32/000000/teacher.png"/>
+    <b>Gestion des professeurs</b> :
+    Enregistrer les données des professeurs (nom, âge, salaire).
+    Réserver un professeur à un seul niveau scolaire.
+    Chercher un professeur en utilisant son nom.
+    Écrire une liste contenant tous les noms des professeurs.
+    Supprimer un professeur.
+  </p>
+  
+  <p>
+    <img src="https://img.icons8.com/windows/32/000000/class.png"/>
+    <b>Gestion des niveaux scolaires</b> :
+    Enregistrer les données des niveaux scolaires (nom, code).
+    Chercher un niveau scolaire en utilisant son nom.
+  </p>
+
+</div>
 
 ## Relations entre les classes
 
@@ -69,3 +90,5 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ## Contact
 
 Mohamed Amine Ait Jaakike - [mohamedamineaitjaakike@gmail.com](mailto:mohamedamineaitjaakike@gmail.com)
+
+</div>
